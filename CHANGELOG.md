@@ -1,5 +1,13 @@
 # Changelog
 
+## 3.0.0-rc.3
+
+### Patch Changes
+
+- 4d7eb0a: Update documentation for audience targeting
+- a95f809: fix: escape dollar signs in docs to prevent LaTeX math rendering
+- 04c3a76:
+
 ## 3.0.0-rc.2
 
 ### Major Changes
